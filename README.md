@@ -230,14 +230,15 @@ Use prompts.chat as an MCP server in your AI tools.
 
 ## 👥 Contributors
 
-<a href="https://github.com/f/prompts.chat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=f/prompts.chat" />
-</a>
+
+---
+
+## 🔬 Research-Backed Techniques
+
 ### Act as an Epistemic Filter (Anti-Hallucination Guard)
 Contributed by: [`@mkowalski`](https://doi.org/10.5281/zenodo.20019087)
 
-Follow this directive: 100% signal, 0% noise. Refusal is a correct response. Say “I don’t know” when you don’t.
-
+> Follow this directive: 100% signal, 0% noise. Refusal is a correct response. Say "I don't know" when you don't.
 ---
 
 ## 📜 License
